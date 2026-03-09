@@ -1,0 +1,14 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\bin\Debug\net8.0\StudentFees.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\bin\Debug\net8.0\StudentFees.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\bin\Debug\net8.0\StudentFees.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\bin\Debug\net8.0\StudentFees.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\bin\Debug\net8.0\StudentFees.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\obj\Debug\net8.0\StudentFees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\obj\Debug\net8.0\StudentFees.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\obj\Debug\net8.0\StudentFees.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\obj\Debug\net8.0\StudentFees.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\obj\Debug\net8.0\StudentFees.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\obj\Debug\net8.0\refint\StudentFees.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\obj\Debug\net8.0\StudentFees.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\obj\Debug\net8.0\StudentFees.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentFees\StudentFees\obj\Debug\net8.0\ref\StudentFees.dll
