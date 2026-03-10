@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\bin\Debug\net8.0\PlanetWeight.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\bin\Debug\net8.0\PlanetWeight.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\bin\Debug\net8.0\PlanetWeight.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\bin\Debug\net8.0\PlanetWeight.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\bin\Debug\net8.0\PlanetWeight.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\PlanetWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\PlanetWeight.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\PlanetWeight.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\PlanetWeight.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\PlanetWeight.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\PlanetWeight.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\refint\PlanetWeight.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\PlanetWeight.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\PlanetWeight.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\PlanetWeight\PlanetWeight\obj\Debug\net8.0\ref\PlanetWeight.dll
