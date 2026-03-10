@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\bin\Debug\net8.0\StudentReport.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\refint\StudentReport.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\StudentReport.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\StudentReport\StudentReport\obj\Debug\net8.0\ref\StudentReport.dll
