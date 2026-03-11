@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\bin\Debug\net8.0\AcedemicCourse.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\bin\Debug\net8.0\AcedemicCourse.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\bin\Debug\net8.0\AcedemicCourse.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\bin\Debug\net8.0\AcedemicCourse.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\bin\Debug\net8.0\AcedemicCourse.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\AcedemicCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\AcedemicCourse.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\AcedemicCourse.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\AcedemicCourse.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\AcedemicCourse.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\AcedemicCourse.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\refint\AcedemicCourse.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\AcedemicCourse.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\AcedemicCourse.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\AcedemicCourse\AcedemicCourse\obj\Debug\net8.0\ref\AcedemicCourse.dll
