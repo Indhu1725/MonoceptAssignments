@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\bin\Debug\net8.0\BankGame.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\bin\Debug\net8.0\BankGame.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\bin\Debug\net8.0\BankGame.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\bin\Debug\net8.0\BankGame.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\bin\Debug\net8.0\BankGame.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\BankGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\BankGame.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\BankGame.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\BankGame.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\BankGame.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\BankGame.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\refint\BankGame.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\BankGame.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\BankGame.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\BankGame\BankGame\obj\Debug\net8.0\ref\BankGame.dll
