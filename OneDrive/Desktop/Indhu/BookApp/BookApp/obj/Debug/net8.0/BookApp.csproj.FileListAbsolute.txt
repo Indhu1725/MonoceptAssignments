@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\bin\Debug\net8.0\BookApp.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\bin\Debug\net8.0\BookApp.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\bin\Debug\net8.0\BookApp.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\bin\Debug\net8.0\BookApp.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\bin\Debug\net8.0\BookApp.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\BookApp.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\BookApp.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\BookApp.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\refint\BookApp.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\BookApp.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\BookApp.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\BookApp\BookApp\obj\Debug\net8.0\ref\BookApp.dll
