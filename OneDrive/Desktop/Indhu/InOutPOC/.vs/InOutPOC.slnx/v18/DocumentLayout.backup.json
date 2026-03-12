@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deept\\OneDrive\\Desktop\\Indhu\\InOutPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04BF5758-B9BB-4BB3-9B20-C8769DBBF5D6}|WriteLineParams\\WriteLineParams.csproj|c:\\users\\deept\\onedrive\\desktop\\indhu\\inoutpoc\\writelineparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BF5758-B9BB-4BB3-9B20-C8769DBBF5D6}|WriteLineParams\\WriteLineParams.csproj|solutionrelative:writelineparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C98731A-D018-4296-9EE2-C7E91134D517}|ParamsPOC\\ParamsPOC.csproj|c:\\users\\deept\\onedrive\\desktop\\indhu\\inoutpoc\\paramspoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C98731A-D018-4296-9EE2-C7E91134D517}|ParamsPOC\\ParamsPOC.csproj|solutionrelative:paramspoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E582E968-7D64-4E33-877F-AD1E861E2EE5}|TryParsePOC\\TryParsePOC.csproj|c:\\users\\deept\\onedrive\\desktop\\indhu\\inoutpoc\\tryparsepoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E582E968-7D64-4E33-877F-AD1E861E2EE5}|TryParsePOC\\TryParsePOC.csproj|solutionrelative:tryparsepoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52841B7D-933D-4422-ACCE-313CAA728159}|InOutPOC\\InOutPOC.csproj|c:\\users\\deept\\onedrive\\desktop\\indhu\\inoutpoc\\inoutpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52841B7D-933D-4422-ACCE-313CAA728159}|InOutPOC\\InOutPOC.csproj|solutionrelative:inoutpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deept\\OneDrive\\Desktop\\Indhu\\InOutPOC\\WriteLineParams\\Program.cs",
+              "RelativeDocumentMoniker": "WriteLineParams\\Program.cs",
+              "ToolTip": "C:\\Users\\deept\\OneDrive\\Desktop\\Indhu\\InOutPOC\\WriteLineParams\\Program.cs",
+              "RelativeToolTip": "WriteLineParams\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:32:45.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deept\\OneDrive\\Desktop\\Indhu\\InOutPOC\\ParamsPOC\\Program.cs",
+              "RelativeDocumentMoniker": "ParamsPOC\\Program.cs",
+              "ToolTip": "C:\\Users\\deept\\OneDrive\\Desktop\\Indhu\\InOutPOC\\ParamsPOC\\Program.cs",
+              "RelativeToolTip": "ParamsPOC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:28:27.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deept\\OneDrive\\Desktop\\Indhu\\InOutPOC\\TryParsePOC\\Program.cs",
+              "RelativeDocumentMoniker": "TryParsePOC\\Program.cs",
+              "ToolTip": "C:\\Users\\deept\\OneDrive\\Desktop\\Indhu\\InOutPOC\\TryParsePOC\\Program.cs",
+              "RelativeToolTip": "TryParsePOC\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:21:33.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deept\\OneDrive\\Desktop\\Indhu\\InOutPOC\\InOutPOC\\Program.cs",
+              "RelativeDocumentMoniker": "InOutPOC\\Program.cs",
+              "ToolTip": "C:\\Users\\deept\\OneDrive\\Desktop\\Indhu\\InOutPOC\\InOutPOC\\Program.cs",
+              "RelativeToolTip": "InOutPOC\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:18:07.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

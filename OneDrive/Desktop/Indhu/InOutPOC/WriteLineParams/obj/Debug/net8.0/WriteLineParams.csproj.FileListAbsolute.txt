@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\bin\Debug\net8.0\WriteLineParams.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\bin\Debug\net8.0\WriteLineParams.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\bin\Debug\net8.0\WriteLineParams.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\bin\Debug\net8.0\WriteLineParams.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\bin\Debug\net8.0\WriteLineParams.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\WriteLineParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\WriteLineParams.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\WriteLineParams.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\WriteLineParams.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\WriteLineParams.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\WriteLineParams.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\refint\WriteLineParams.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\WriteLineParams.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\WriteLineParams.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\WriteLineParams\obj\Debug\net8.0\ref\WriteLineParams.dll

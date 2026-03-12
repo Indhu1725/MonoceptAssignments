@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\bin\Debug\net8.0\InOutPOC.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\bin\Debug\net8.0\InOutPOC.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\bin\Debug\net8.0\InOutPOC.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\bin\Debug\net8.0\InOutPOC.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\bin\Debug\net8.0\InOutPOC.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\InOutPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\InOutPOC.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\InOutPOC.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\InOutPOC.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\InOutPOC.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\InOutPOC.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\refint\InOutPOC.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\InOutPOC.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\InOutPOC.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\InOutPOC\obj\Debug\net8.0\ref\InOutPOC.dll

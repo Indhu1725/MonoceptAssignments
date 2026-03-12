@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\bin\Debug\net8.0\ParamsPOC.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\bin\Debug\net8.0\ParamsPOC.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\bin\Debug\net8.0\ParamsPOC.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\bin\Debug\net8.0\ParamsPOC.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\bin\Debug\net8.0\ParamsPOC.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\ParamsPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\ParamsPOC.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\ParamsPOC.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\ParamsPOC.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\ParamsPOC.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\ParamsPOC.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\refint\ParamsPOC.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\ParamsPOC.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\ParamsPOC.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\ParamsPOC\obj\Debug\net8.0\ref\ParamsPOC.dll

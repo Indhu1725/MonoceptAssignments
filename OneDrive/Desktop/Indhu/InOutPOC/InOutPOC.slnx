@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InOutPOC/InOutPOC.csproj" />
+  <Project Path="ParamsPOC/ParamsPOC.csproj" />
+  <Project Path="TryParsePOC/TryParsePOC.csproj" />
+  <Project Path="WriteLineParams/WriteLineParams.csproj" />
+</Solution>

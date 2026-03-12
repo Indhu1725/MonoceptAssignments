@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\bin\Debug\net8.0\TryParsePOC.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\bin\Debug\net8.0\TryParsePOC.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\bin\Debug\net8.0\TryParsePOC.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\bin\Debug\net8.0\TryParsePOC.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\bin\Debug\net8.0\TryParsePOC.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\TryParsePOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\TryParsePOC.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\TryParsePOC.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\TryParsePOC.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\TryParsePOC.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\TryParsePOC.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\refint\TryParsePOC.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\TryParsePOC.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\TryParsePOC.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\InOutPOC\TryParsePOC\obj\Debug\net8.0\ref\TryParsePOC.dll
