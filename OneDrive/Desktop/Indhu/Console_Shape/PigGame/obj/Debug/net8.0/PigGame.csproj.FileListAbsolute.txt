@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\bin\Debug\net8.0\PigGame.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\bin\Debug\net8.0\PigGame.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\bin\Debug\net8.0\PigGame.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\bin\Debug\net8.0\PigGame.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\bin\Debug\net8.0\PigGame.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\PigGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\PigGame.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\PigGame.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\PigGame.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\PigGame.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\PigGame.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\refint\PigGame.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\PigGame.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\PigGame.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\PigGame\obj\Debug\net8.0\ref\PigGame.dll
