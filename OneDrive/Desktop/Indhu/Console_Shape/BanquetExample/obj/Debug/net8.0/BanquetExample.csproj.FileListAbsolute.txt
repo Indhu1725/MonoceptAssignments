@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\bin\Debug\net8.0\BanquetExample.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\bin\Debug\net8.0\BanquetExample.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\bin\Debug\net8.0\BanquetExample.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\bin\Debug\net8.0\BanquetExample.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\bin\Debug\net8.0\BanquetExample.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\BanquetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\BanquetExample.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\BanquetExample.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\BanquetExample.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\BanquetExample.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\BanquetExample.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\refint\BanquetExample.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\BanquetExample.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\BanquetExample.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\BanquetExample\obj\Debug\net8.0\ref\BanquetExample.dll
