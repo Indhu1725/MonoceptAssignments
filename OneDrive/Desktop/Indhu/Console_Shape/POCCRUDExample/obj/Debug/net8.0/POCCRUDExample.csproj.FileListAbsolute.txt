@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\bin\Debug\net8.0\POCCRUDExample.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\bin\Debug\net8.0\POCCRUDExample.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\bin\Debug\net8.0\POCCRUDExample.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\bin\Debug\net8.0\POCCRUDExample.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\bin\Debug\net8.0\POCCRUDExample.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\POCCRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\POCCRUDExample.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\POCCRUDExample.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\POCCRUDExample.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\POCCRUDExample.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\POCCRUDExample.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\refint\POCCRUDExample.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\POCCRUDExample.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\POCCRUDExample.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\POCCRUDExample\obj\Debug\net8.0\ref\POCCRUDExample.dll
