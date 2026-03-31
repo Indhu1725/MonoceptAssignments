@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\bin\Debug\net8.0\StudentFilteringSystem.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\bin\Debug\net8.0\StudentFilteringSystem.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\bin\Debug\net8.0\StudentFilteringSystem.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\bin\Debug\net8.0\StudentFilteringSystem.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\bin\Debug\net8.0\StudentFilteringSystem.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\StudentFilteringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\StudentFilteringSystem.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\StudentFilteringSystem.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\StudentFilteringSystem.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\StudentFilteringSystem.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\StudentFilteringSystem.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\refint\StudentFilteringSystem.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\StudentFilteringSystem.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\StudentFilteringSystem.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\StudentFilteringSystem\obj\Debug\net8.0\ref\StudentFilteringSystem.dll
