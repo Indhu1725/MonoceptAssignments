@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\refint\OrderProcessingSystem.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\Console_Shape\OrderProcessingSystem\obj\Debug\net8.0\ref\OrderProcessingSystem.dll
