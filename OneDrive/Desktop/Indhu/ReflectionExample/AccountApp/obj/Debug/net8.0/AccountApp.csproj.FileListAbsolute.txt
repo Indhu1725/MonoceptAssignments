@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\bin\Debug\net8.0\AccountApp.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\bin\Debug\net8.0\AccountApp.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\bin\Debug\net8.0\AccountApp.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\bin\Debug\net8.0\AccountApp.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\bin\Debug\net8.0\AccountApp.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\AccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\AccountApp.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\AccountApp.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\AccountApp.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\AccountApp.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\AccountApp.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\refint\AccountApp.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\AccountApp.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\AccountApp.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\AccountApp\obj\Debug\net8.0\ref\AccountApp.dll
