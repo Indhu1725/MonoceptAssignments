@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\refint\MovieStoreApp.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\ReflectionExample\MovieStoreApp\obj\Debug\net8.0\ref\MovieStoreApp.dll
