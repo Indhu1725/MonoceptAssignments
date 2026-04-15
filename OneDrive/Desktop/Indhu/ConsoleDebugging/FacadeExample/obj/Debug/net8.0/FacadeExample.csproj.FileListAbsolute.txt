@@ -1,0 +1,15 @@
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\bin\Debug\net8.0\FacadeExample.exe
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\bin\Debug\net8.0\FacadeExample.deps.json
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\bin\Debug\net8.0\FacadeExample.runtimeconfig.json
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\bin\Debug\net8.0\FacadeExample.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\bin\Debug\net8.0\FacadeExample.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\FacadeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\FacadeExample.AssemblyInfoInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\FacadeExample.AssemblyInfo.cs
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\FacadeExample.csproj.CoreCompileInputs.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\FacadeExample.sourcelink.json
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\FacadeExample.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\refint\FacadeExample.dll
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\FacadeExample.pdb
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\FacadeExample.genruntimeconfig.cache
+C:\Users\deept\OneDrive\Desktop\Indhu\ConsoleDebugging\FacadeExample\obj\Debug\net8.0\ref\FacadeExample.dll
